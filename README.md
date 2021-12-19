@@ -6,8 +6,11 @@ Als (Junior) Consultant / Developer (w/m/d) RPA (Robotic Process Automation) arb
 
 Du willst die digitale Transformation mit großen Schritten vorantreiben und damit die Zukunft der Arbeitswelt aktiv mitgestalten? Dann kannst Du Dich hier einbringen:
 
-Gemeinsam mit Deinem Team entwickelst Du Software-Roboter für unsere Kundschaft und arbeitest an der Etablierung eines Application Lifecycle Managements.
-In enger Zusammenarbeit mit Deinen Fachkolleginnen und -kollegen identifizierst Du das Automatisierungspotential von Prozessen.
-Als Experte:in für RPA-Themen unterstützt Du unsere Mitarbeiter und Mitarbeiterinnen aus den Fachabteilungen bei ihren Fragen.
-Du bist verantwortlich für die Konzeption und Erstellung wiederverwendbarer Lösungen.
-Darüber hinaus unterstützt Du bei der kontinuierlichen Weiterentwicklung von Konzepten, Methoden und Tools.
+<ul>
+  <li>Gemeinsam mit Deinem Team entwickelst Du Software-Roboter für unsere Kundschaft und arbeitest an der Etablierung eines Application Lifecycle Managements.</li>
+  <li>In enger Zusammenarbeit mit Deinen Fachkolleginnen und -kollegen identifizierst Du das Automatisierungspotential von Prozessen.</li>
+  <li>Als Experte:in für RPA-Themen unterstützt Du unsere Mitarbeiter und Mitarbeiterinnen aus den Fachabteilungen bei ihren Fragen.</li>
+  <li>Du bist verantwortlich für die Konzeption und Erstellung wiederverwendbarer Lösungen.</li>
+  <li>Darüber hinaus unterstützt Du bei der kontinuierlichen Weiterentwicklung von Konzepten, Methoden und Tools.</li>
+</ul>
+  
