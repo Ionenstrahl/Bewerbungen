@@ -19,5 +19,5 @@ https://www.stepstone.de/stellenangebote--Softwareentwickler-Software-Ingenieur-
   <li>Knowhow in der Verwendung von Kommunikationsbibliotheken und SDKs auf verschiedenen Hardwareplattformen​</li>
   <li>Programmiersprachen wie C, C++ und Python sind dir nicht fremd, idealerweise hast du zudem Kenntnisse in Embedded Linux​</li>
   <li>Abgeschlossenes Studium im Bereich (technische) Informatik, Elektrotechnik, Nachrichtentechnik o. ä.​</li>
-  <li><li>Abgeschlossenes Studium im Bereich (technische) Informatik, Elektrotechnik, Nachrichtentechnik o. ä.​</li></li>
+  <li>Abgeschlossenes Studium im Bereich (technische) Informatik, Elektrotechnik, Nachrichtentechnik o. ä.​</li>
 </ul>
