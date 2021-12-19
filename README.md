@@ -23,9 +23,11 @@ Du willst die digitale Transformation mit großen Schritten vorantreiben und dam
  
 <h3>Dein Profil</h3>
 
-(Junior) Consultant / Developer (w/m/d) RPA (Robotic Process Automation) wirst Du bei uns mit einem abgeschlossenen Studium der Informatik, Wirtschaftsinformatik, Wirtschaftswissenschaften, des Wirtschaftsingenieurwesens, des Ingenieurwesens oder der Naturwissenschaften.
-Du kannst erste Erfahrungen mit einer RPA-Software wie Blue Prism, UiPath oder Softomotive Process Robot bzw. einem Testautomatisierungstool, z. B. Ranorex, Tosca vorweisen.
-Du solltest ein grundlegendes Interesse an Prozessoptimierungen mitbringen.
-Zudem verfügst Du über bereits nachweisbare Kenntnisse in einer Programmiersprache (<b>C#, Java, JavaScript, VB</b> o.ä.).
-Deutsch beherrschst Du auf C1-Niveau und Englisch auf B2-Niveau.
-Du hast Freude an der Zusammenarbeit und Kommunikation im Team.
+<ul>
+  <li>(Junior) Consultant / Developer (w/m/d) RPA (Robotic Process Automation) wirst Du bei uns mit einem abgeschlossenen Studium der Informatik, Wirtschaftsinformatik, Wirtschaftswissenschaften, des Wirtschaftsingenieurwesens, des Ingenieurwesens oder der Naturwissenschaften.</li>
+  <li>Du kannst erste Erfahrungen mit einer RPA-Software wie Blue Prism, UiPath oder Softomotive Process Robot bzw. einem Testautomatisierungstool, z. B. Ranorex, Tosca vorweisen.</li>
+  <li>Du solltest ein grundlegendes Interesse an Prozessoptimierungen mitbringen.</li>
+  <li>Zudem verfügst Du über bereits nachweisbare Kenntnisse in einer Programmiersprache (<b>C#, Java, JavaScript, VB</b> o.ä.).</li>
+  <li>Deutsch beherrschst Du auf C1-Niveau und Englisch auf B2-Niveau.</li>
+  <li>Du hast Freude an der Zusammenarbeit und Kommunikation im Team.</li>
+</ul> 
