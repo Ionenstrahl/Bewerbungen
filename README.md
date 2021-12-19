@@ -11,3 +11,13 @@ https://www.stepstone.de/stellenangebote--Softwareentwickler-Software-Ingenieur-
   <li>Du implementierst Connectivity-Lösungen in Kundenprojekten zur Vernetzung von IoT-Devices untereinander oder mit Gateways bzw. Cloud-Services.​</li>
   <li>Du erstellst Testspezifikationen und führst Software und Kommunikations-Tests und Code Reviews durch. </li>
 </ul>
+
+<h3>Anforderungen</h3>
+<ul>
+  <li>Spaß und hohe Eigenmotivation bei der Lösung technischer Aufgaben​</li>
+  <li>Erfahrung mit Netzwerkprotokollen im IoT Bereich (z.B. MQTT, REST, CoAP)</li>
+  <li>Knowhow in der Verwendung von Kommunikationsbibliotheken und SDKs auf verschiedenen Hardwareplattformen​</li>
+  <li>Programmiersprachen wie C, C++ und Python sind dir nicht fremd, idealerweise hast du zudem Kenntnisse in Embedded Linux​</li>
+  <li>Abgeschlossenes Studium im Bereich (technische) Informatik, Elektrotechnik, Nachrichtentechnik o. ä.​</li>
+  <li><li>Abgeschlossenes Studium im Bereich (technische) Informatik, Elektrotechnik, Nachrichtentechnik o. ä.​</li></li>
+</ul>
